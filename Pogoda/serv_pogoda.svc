@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Pogoda.serv_pogoda" CodeBehind="serv_pogoda.svc.cs" %>

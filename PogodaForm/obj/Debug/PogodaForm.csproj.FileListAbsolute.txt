@@ -1,0 +1,8 @@
+D:\Sience\IT_Step\WCF\Pogoda\PogodaForm\bin\Debug\PogodaForm.exe.config
+D:\Sience\IT_Step\WCF\Pogoda\PogodaForm\bin\Debug\PogodaForm.exe
+D:\Sience\IT_Step\WCF\Pogoda\PogodaForm\bin\Debug\PogodaForm.pdb
+D:\Sience\IT_Step\WCF\Pogoda\PogodaForm\obj\Debug\PogodaForm.Form1.resources
+D:\Sience\IT_Step\WCF\Pogoda\PogodaForm\obj\Debug\PogodaForm.Properties.Resources.resources
+D:\Sience\IT_Step\WCF\Pogoda\PogodaForm\obj\Debug\PogodaForm.csproj.GenerateResource.Cache
+D:\Sience\IT_Step\WCF\Pogoda\PogodaForm\obj\Debug\PogodaForm.exe
+D:\Sience\IT_Step\WCF\Pogoda\PogodaForm\obj\Debug\PogodaForm.pdb

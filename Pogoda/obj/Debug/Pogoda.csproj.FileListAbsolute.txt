@@ -1,0 +1,4 @@
+D:\Sience\IT_Step\WCF\Pogoda\Pogoda\bin\Pogoda.dll
+D:\Sience\IT_Step\WCF\Pogoda\Pogoda\bin\Pogoda.pdb
+D:\Sience\IT_Step\WCF\Pogoda\Pogoda\obj\Debug\Pogoda.dll
+D:\Sience\IT_Step\WCF\Pogoda\Pogoda\obj\Debug\Pogoda.pdb

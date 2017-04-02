@@ -1,0 +1,6 @@
+D:\Sience\IT_Step\WCF\Pogoda\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Sience\IT_Step\WCF\Pogoda\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Sience\IT_Step\WCF\Pogoda\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Sience\IT_Step\WCF\Pogoda\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Sience\IT_Step\WCF\Pogoda\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Sience\IT_Step\WCF\Pogoda\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pogoda", "Pogoda\Pogoda.csproj", "{DEF05777-5166-49B8-BD7A-85A4629C37FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PogodaForm", "PogodaForm\PogodaForm.csproj", "{5A867DCE-321E-44B4-99AF-0388A09E8F22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF05777-5166-49B8-BD7A-85A4629C37FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF05777-5166-49B8-BD7A-85A4629C37FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF05777-5166-49B8-BD7A-85A4629C37FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF05777-5166-49B8-BD7A-85A4629C37FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A867DCE-321E-44B4-99AF-0388A09E8F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A867DCE-321E-44B4-99AF-0388A09E8F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A867DCE-321E-44B4-99AF-0388A09E8F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A867DCE-321E-44B4-99AF-0388A09E8F22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
